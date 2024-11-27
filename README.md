@@ -20,5 +20,5 @@ Para criar e rodar o jar host: <br>
 java -cp build/classes servidor.ServidorSocket <br>
  <br>
  
-Para criar e rodar o jar client:
+Para criar e rodar o jar client: <br>
 java -jar dist/ChatJava.jar
