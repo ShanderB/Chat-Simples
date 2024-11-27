@@ -4,6 +4,7 @@ build/classes/servidor/ClienteChat$2.class
 build/classes/servidor/ClienteChat.class
 build/classes/.netbeans_automatic_build
 build/classes/.netbeans_update_resources
-build/classes/servidor/ClienteChat.class
 build/classes/servidor/ClienteChat.form
-build/classes/servidor/ClienteChat$2.class
+build/classes/servidor/ClienteChat$1.class
+build/classes/servidor/ClienteSocket.class
+build/classes/servidor/ServidorSocket.class
