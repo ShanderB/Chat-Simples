@@ -70,4 +70,11 @@
     nbproject/build-impl.xml file. 
 
     -->
+    <target name="-post-jar">
+    <jar destfile="${dist.jar}" basedir="${build.classes.dir}">
+        <manifest>
+            <attribute name="Main-Class" value="servidor.ClienteChat"/>
+        </manifest>
+    </jar>
+</target>
 </project>
